@@ -1,17 +1,4 @@
-C
-Code by Nathan Moore
-C
-C       this program says hello
-C       compile with "f77 program.f"
-C       the run ./a.out
-C
-        PRINT *,"Hello!"
-        STOP
-        END
-nathan@physlin20:~/phys320$ f77 1.1_first.f
-nathan@physlin20:~/phys320$ ./a.out
- Hello!
-nathan@physlin20:~/phys320$ cat bike_ride.f
+
         implicit none
         integer i, N
         real dt, a, v0, v, x0, x, t
