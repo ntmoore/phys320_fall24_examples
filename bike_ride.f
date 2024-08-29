@@ -1,4 +1,9 @@
-
+C this is a comment
+C compile the code with 
+C        f77 bike_ride.f
+C and then run it with
+C        ./a.out
+C
         implicit none
         integer i, N
         real dt, a, v0, v, x0, x, t
