@@ -1,0 +1,9 @@
+v0(m/s),8.0000e+03,t2(s),4.5000e+03,dt(s),6.0000e+01,fell_to_earth,
+v0(m/s),9.0000e+03,t2(s),8.0400e+03,dt(s),6.0000e+01,fell_to_earth,
+v0(m/s),1.0000e+04,t2(s),2.0400e+04,dt(s),6.0000e+01,fell_to_earth,
+v0(m/s),1.1000e+04,t2(s),4.3206e+05,dt(s),6.0000e+01,ran_out_of_time,
+v0(m/s),1.2000e+04,t2(s),7.3200e+04,dt(s),6.0000e+01,arrived_at_Luna,
+v0(m/s),1.3000e+04,t2(s),5.2140e+04,dt(s),6.0000e+01,arrived_at_Luna,
+v0(m/s),1.4000e+04,t2(s),4.2240e+04,dt(s),6.0000e+01,arrived_at_Luna,
+v0(m/s),1.5000e+04,t2(s),3.6120e+04,dt(s),6.0000e+01,arrived_at_Luna,
+running:  python3 ranger-verlet-w-args.py t_limit_days 5 v0 1.5000e+04 quiet_output 

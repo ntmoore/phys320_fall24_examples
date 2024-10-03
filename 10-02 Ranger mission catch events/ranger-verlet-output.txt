@@ -1,0 +1,5 @@
+simulation starts:
+t = 0.00e+00 (s)	r = 6.44e+06 (m)	v = 1.10e+04 (m/s)
+t = 6.00e+01 (s)	r = 7.08e+06 (m)	v = 1.04e+04 (m/s)
+t = 4.65e+05 (s)	r = 5.71e+06 (m)	v = -1.10e+04 (m/s)
+rocket fell back to earth at t = 4.65e+05 (sec) = 129.2 (hours)
